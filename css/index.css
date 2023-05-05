@@ -1,0 +1,32 @@
+.fair-style-button {
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    font-weight: 700;
+    transition: transform 0.2s ease-in-out;
+    font-family: arial;
+    text-decoration: none;
+}
+.fair-style-but {
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 2px solid white;
+    color: black;
+    background-color: yellow;
+    /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); */
+    font-size: 18px;
+    transition: transform 0.2s ease-in-out;
+    font-family: arial;
+    font-weight: 700;
+    text-decoration: none;
+}
+body{
+background-color: #ffffbf;
+}
+h3{
+    color: red;
+}
